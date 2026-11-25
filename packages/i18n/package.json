@@ -1,6 +1,6 @@
 {
   "name": "@regle-rules/i18n",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "i18n translations for Regle rules",
   "homepage": "https://github.com/asip/regle-rules#readme",
   "bugs": {
