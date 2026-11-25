@@ -47,3 +47,5 @@ export {
   uppercase,
   url,
 } from './rules'
+
+export { locales } from './locales'
