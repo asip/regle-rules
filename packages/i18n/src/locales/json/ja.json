@@ -9,7 +9,7 @@
         "between": "{min}〜{max}の間ではありません",
         "boolean": "真偽値ではありません",
         "checked": "チェック必須です",
-        "contains": "{}を含んでいません",
+        "contains": "{part}を含んでいません",
         "startsWith": "{part}で始まっていません",
         "endsWith": "{part}で終わっていません",
         "exactDigits": "{count}であるべきです",
