@@ -1,8 +1,10 @@
+import { defineConfig } from 'eslint/config'
+
 import js from '@eslint/js'
 import typescriptESLintParser from '@typescript-eslint/parser'
 import typescriptESLint from '@typescript-eslint/eslint-plugin'
 
-export default [
+export default defineConfig([
   js.configs.recommended,
   {
     languageOptions: {
@@ -41,4 +43,4 @@ export default [
       ...typescriptESLint.configs.stylistic.rules,
     },
   },
-]
+])
