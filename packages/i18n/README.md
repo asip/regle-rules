@@ -25,3 +25,9 @@ export const { useRegle: useRegleI18n } = defineRegleConfig({
   },
 })
 ```
+
+## App that use Regle rules I18n for Vue I18n
+
+<https://github.com/asip/easel-legacy>
+
+<https://github.com/asip/easel-front>
